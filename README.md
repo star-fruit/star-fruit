@@ -21,3 +21,5 @@ Hi, I'm Tahmeed Khan. I currently pursuing a dual bachelor's degree in Electrica
 - 📫 How to reach me: tahmeedkhanwork@gmail.com
 - 📝 More about me at tahmeedkhan.com (Currently in progress)
 
+![Python](https://camo.githubusercontent.com/66827c53581cfee18c55618697d74a3c6167932d3c1980fba2019ef7a3e553b0/68747470733a2f2f696d672e736869656c64732e696f2f62616467652f2d507974686f6e2d626c61636b3f7374796c653d666c61742d737175617265266c6f676f3d507974686f6e)
+![Numpy](https://camo.githubusercontent.com/aac67c7c84ae44262f8fae37feb6598de0ca2f7f87cade7359492c8969aed846/68747470733a2f2f696d672e736869656c64732e696f2f62616467652f2d4e756d70792d626c61636b3f7374796c653d666c61742d737175617265266c6f676f3d4e756d7079)
